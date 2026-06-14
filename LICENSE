@@ -1,0 +1,73 @@
+Waibee Code — End User License Agreement (EULA)
+
+Copyright (c) 2026 Waibee. All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+("you") and Waibee ("Waibee", "we", "us") covering the Waibee Code software
+application, including its binaries, command-line tools, install scripts, and
+accompanying documentation made available in this repository (collectively, the
+"Software").
+
+By downloading, installing, or using the Software, you agree to be bound by this
+Agreement. If you do not agree, do not download, install, or use the Software.
+
+1. LICENSE GRANT.
+   Subject to your continued compliance with this Agreement and with any
+   applicable subscription or service terms, Waibee grants you a limited,
+   non-exclusive, non-transferable, non-sublicensable, revocable license to
+   download, install, and use the Software in object-code (binary) form for your
+   own internal or personal purposes.
+
+2. RESTRICTIONS.
+   You may not, and may not permit any third party to:
+   (a) redistribute, publish, sell, rent, lease, lend, host as a service, or
+       otherwise make the Software available to any third party;
+   (b) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+       the source code of the Software, except to the limited extent this
+       restriction is prohibited by applicable law;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) remove, alter, or obscure any proprietary or licensing notices;
+   (e) use the Software to develop or train a competing product or service; or
+   (f) circumvent or disable any licensing, security, or update mechanism.
+
+3. OWNERSHIP.
+   The Software is licensed, not sold. Waibee and its licensors retain all
+   right, title, and interest in and to the Software, including all intellectual
+   property rights. No rights are granted except as expressly set out in this
+   Agreement. The source code of the Software is not licensed or provided to you.
+
+4. THIRD-PARTY COMPONENTS.
+   The Software includes third-party open-source components licensed under their
+   own terms. Those terms are reproduced in the THIRD_PARTY_LICENSES file
+   distributed with the Software and govern your use of those components.
+
+5. UPDATES.
+   The Software may automatically check for and install updates. This Agreement
+   governs all updates unless an update is accompanied by a separate license, in
+   which case that separate license governs that update.
+
+6. TERM AND TERMINATION.
+   This Agreement is effective until terminated. It terminates automatically and
+   immediately if you breach any of its terms. Upon termination you must cease
+   all use of the Software and delete all copies in your possession or control.
+   Sections 2 through 9 survive termination.
+
+7. DISCLAIMER OF WARRANTY.
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY.
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WAIBEE BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, OR DATA, ARISING OUT OF OR
+   RELATED TO YOUR USE OF OR INABILITY TO USE THE SOFTWARE. WAIBEE'S TOTAL
+   AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS, IF ANY,
+   YOU PAID FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING
+   RISE TO THE CLAIM.
+
+9. GOVERNING LAW.
+   This Agreement is governed by the laws of [JURISDICTION], without regard to
+   its conflict-of-laws rules. Replace [JURISDICTION] before publishing.
+
+Contact: legal@waibee.dev
