@@ -56,7 +56,7 @@ if [[ "$UNINSTALL" == true ]]; then
     if [[ -f "$BIN_PATH" ]]; then
         rm -f "$BIN_PATH"
         say "Removed $BIN_PATH"
-        say "Note: config/data in \$HOME/.config/waibee and \$HOME/.local/share/waibee are NOT removed."
+        say "Note: settings, history, and your saved key in \$HOME/.waibee are NOT removed."
     else
         warn "Binary not found at $BIN_PATH — nothing to remove."
     fi

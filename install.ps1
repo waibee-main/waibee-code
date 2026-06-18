@@ -45,7 +45,7 @@ if ($Uninstall) {
     if (Test-Path $BinPath) {
         Remove-Item $BinPath -Force
         Say "Removed $BinPath"
-        Say "Note: config/data files are NOT removed (typically %APPDATA%\waibee, %LOCALAPPDATA%\waibee)."
+        Say "Note: settings, history, and your saved key in %APPDATA%\waibee are NOT removed."
     } else {
         Warn "Binary not found at $BinPath — nothing to remove."
     }
